@@ -1,0 +1,1 @@
+# stylelint_common_config
