@@ -1,0 +1,26 @@
+{
+  "name": "stylelint_common_config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "style": "stylelint --fix  **/*.{css,scss,vue}"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuessFinger/stylelint_common_config.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuessFinger/stylelint_common_config/issues"
+  },
+  "homepage": "https://github.com/GuessFinger/stylelint_common_config#readme",
+  "devDependencies": {
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^22.0.0",
+    "stylelint-order": "^4.1.0"
+  }
+}
